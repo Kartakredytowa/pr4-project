@@ -1,0 +1,24 @@
+.my-container {
+    width: 9cm;
+    text-align: center;
+    background-color: #BDBBBB;
+    border: 4px solid #03322A;
+    right: 309px;
+    top: 184px;
+    padding: 5px;
+    position: absolute;
+    bottom: -88px;
+    height: 297px;
+}
+
+#main-title {
+    text-align: center;
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+    height: 110px;
+    margin-top: 38px;
+    margin-bottom: -8px;
+	}
+
+p { 
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif"
+		}
