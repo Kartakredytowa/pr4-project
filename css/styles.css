@@ -22,3 +22,7 @@
 p { 
 	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif"
 		}
+
+.center {
+	text-align: center;
+	}
