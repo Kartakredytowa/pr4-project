@@ -1,28 +1,40 @@
+* { margin: 0; padding: 0; border: 0; }
+
 .my-container {
-    width: 9cm;
+    width: 13cm;
     text-align: center;
     background-color: #BDBBBB;
     border: 4px solid #03322A;
-    right: 309px;
-    top: 184px;
+    right: 392px;
+    top: 226px;
     padding: 5px;
-    position: absolute;
     bottom: -88px;
-    height: 297px;
+    height: 598px;
 }
 
 #main-title {
     text-align: center;
-    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
-    height: 110px;
-    margin-top: 38px;
-    margin-bottom: -8px;
+    font-family: 'Nanum Gothic', sans-serif;
+    height: 66px;
+    background-image: url(../images/Bird%20of%20Paradise%20Wallpapers%20HD%20Wallpapers.jpg);
+    color: #FFFFFF;
+    font-size: 31pt;
 	}
 
-p { 
-	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+p {
+    font-family: 'Nanum Gothic', sans-serif;
+    margin-left: 515px;
+    width: auto;
+    margin-top: -597px;
 		}
-
-.center {
-	text-align: center;
+.margin {
+    margin-left: 40px;
+    margin-right: 40px;
+    background-color: #FBE3E3;
+    padding-bottom: 9px;
 	}
+.footer {
+    background-color: #BDBBBB;
+    height: 50px;
+    text-align: right;
+}
